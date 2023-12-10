@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Full stack Data Science**
 
-- 👯 I’m looking to collaborate on **HTML5 CSS3 BOOTSTRAP PYTHON**
-
 - 👨‍💻 All of my projects are available at [https://dewank05.github.io/portfolio-basic/](https://dewank05.github.io/portfolio-basic/)
 
 - 💬 Ask me about **HTML5 CSS3 BOOTSTRAP PYTHON**
